@@ -1,5 +1,5 @@
 print("Hello World")
-for _ in range(100):
-    print("Done")
-    break
+for i in range(10):
+    print(i)
+
 
